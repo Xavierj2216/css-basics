@@ -26,7 +26,7 @@ body {font-size: 1.5em;font-family:"Crimson Text","Arail";line-height: 1.5;}
 code {color:#CE234C;background-color:lightgray;}
 
 #italicized {color:green;font-style: italic;}
-a:link {color:black;}
-a:visited {color:green;}
+a:link {color:green;}
+a:visited {color:black;}
 a:hover {color:red;}
 a:active {color:blue;}
